@@ -85,7 +85,7 @@ const Home = () => {
               <div className="icons">
                 <Link
                   to={
-                    "https://apps.apple.com/id/app/pubg-mobile-aftermath/id1330123889?l=id"
+                    "https://drive.google.com/file/d/1uBWw01XoGdy2_FD16D5XTaq4uYqUGyKl/view?usp=drivesdk"
                   }
                 >
                   <img src={logoapple} alt="image" />
@@ -94,7 +94,7 @@ const Home = () => {
               <div className="icons">
                 <Link
                   to={
-                    "https://play.google.com/store/apps/details?id=com.tencent.ig"
+                    "https://drive.google.com/file/d/1uBWw01XoGdy2_FD16D5XTaq4uYqUGyKl/view?usp=drivesdk"
                   }
                 >
                   <img src={logogoogle} alt="image" />

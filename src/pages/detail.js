@@ -64,7 +64,7 @@ export default function ProductDetail() {
                 <p className="product-description">{product.description}</p>
                 <div className="btn-groups">
                   <a
-                    href="https://play.google.com/store/apps/details?id=com.tencent.ig"
+                    href="https://drive.google.com/file/d/1uBWw01XoGdy2_FD16D5XTaq4uYqUGyKl/view?usp=drivesdk"
                     className="buy-now-btn"
                   >
                     <i className="fas fa-wallet"></i>buy now
